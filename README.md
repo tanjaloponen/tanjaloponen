@@ -11,13 +11,14 @@
  and to believe in my skills and dreams and that includes trying to find my first job in the IT industry.
  
 💞️ Through my studies I have skills/knowledge in the following subjects: 
-        - Basics of databases, MySQL, AzureSQL
+        - Basics of databases, MySQL, AzureSQL, MongoDB
         - Programming with Python and Java
         - Windows environment control, Linux
         - Azure (Logic Apps, VMs, DataFactory)
         - Web development ( HTML, CSS, JavaScript, PHP)
         - RPA with UiPath
         - Testing processes, automation testing with Robot Framework (Selenium Library)
+        - PowerBI
         - Wordpress
         - Scrum, Kanban
         - Also a lot of knowledge of business / economic matters.
