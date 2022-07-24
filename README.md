@@ -4,7 +4,7 @@
  my career to tech industry. I found #mimmitkoodaa program in 2019 and since then I've attended several workshops in different companies and studied programming 
  (Python) in the open university. From 2020 I've been studying in a "transformation program" at HAMK to become a Bachelor of Business Administration 
  (Computer Applications). Tietojenkäsittelyn tradenomi in Finnish. I'm almost done with the coursework and will do my thesis by the end of the year 2022. 
- I don't have a topic yet but I'm interested for example in data engineering, cloud environments, RPA and information systems and hoping to find a subject close to 
+ I don't have a topic yet but I'm interested for example in data engineering, databases, cloud environments and RPA and hoping to find a subject close to 
  some of the before-mentioned.
  
 🌱 I’m currently finishing my last courses and learning about Azure, databases in cloud, Linux and ERP systems. I'm also learning to publish my projects in Github
