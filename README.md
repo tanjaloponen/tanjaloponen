@@ -24,7 +24,7 @@
         - Also a lot of knowledge of business / economic matters.
 
 📫 If you'd wish to contact me regarding for example networking, thesis ideas, job offers, tips to Github projects or something else,
-  please send me and email to tanja.e.loponen@gmail.com. 
+  please send me an email to tanja.e.loponen@gmail.com. 
 
 <!---
 tanjaloponen/tanjaloponen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
